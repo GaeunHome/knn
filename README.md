@@ -1,6 +1,9 @@
 # knn
-<h3>Assignment Description</h3>
-本次作業要實作 K-Nearest Neighbors Algorithm，可以用 python 的 csv library 去讀寫.csv檔案，但演算法的部分需手刻，不可使用 sklearn 或其他現成的 library 建立。<br>
+<p>課程名稱：人工智慧導論</p>
+<p>授課教授：朱威達 教授</p>
+
+# Assignment Description
+本次作業要實作 K-Nearest Neighbors Algorithm，可以用 python 的 csv library 去讀寫 .csv 檔案，但演算法的部分需手刻，不可使用 sklearn 或其他現成的 library 建立。<br>
 <br>
 本次作業分為五個步驟：<br>
 <h4>1.了解資料</h4>
@@ -13,3 +16,6 @@
 按照課堂上所學，實作 K-Nearest Neighbors Algorithm，以 train split 的資料訓練，再對 validation 與 test split 進行預測。
 <h4>4. 評估與優化</h4>
 利用 validation split 的資料進行預測與評分，想辦法提升準確度，例如調整模型的參數或是嘗試加上特殊的前處理方式。
+
+# 實作結果
+<p>訓練集切割後的準確率與測試資料的準確率約為70%至75%。</p>
