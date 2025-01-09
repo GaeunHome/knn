@@ -21,7 +21,7 @@
 <p>訓練集切割後的準確率與測試資料的準確率約為70%至75%。</p>
 
 # 檔案用途
-<p>1. eval.py：評測經KNN預測之測試資料集與實際之測試資料集兩者準確率。</p>
+<p>1. eval.py：評測經KNN預測之測試資料集與實際之測試資料集兩者準確率，指令為" <b>python eval.py val_gt.csv val_pred.csv</b> "</p>
 <p>2. train.csv：訓練集</p>
 <p>3. train_gt.csv：訓練集之標籤</p>
 <p>4. val.csv：測試集</p>
