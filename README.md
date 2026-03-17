@@ -2,10 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3-3776AB)](https://www.python.org/)
 
-113學年度第1學期 [ST326L]「人工智慧導論」 - 作業「KNN」
-
-**授課教授**：朱威達 教授
-
 ## 作業描述
 
 本次作業要實作 K-Nearest Neighbors Algorithm，可以用 Python 的 `csv` library 去讀寫 `.csv` 檔案，但**演算法的部分需手刻**，不可使用 `sklearn` 或其他現成的 library 建立。
@@ -33,14 +29,6 @@
 ## 實作結果
 
 訓練集切割後的準確率與測試資料的準確率約為 70% 至 75%。
-
-## 技術資訊
-
-| 項目 | 說明 |
-|------|------|
-| **語言** | Python |
-| **課程** | 人工智慧導論 (ST326L) |
-| **學期** | 113學年度第1學期 |
 
 ## 專案結構
 
